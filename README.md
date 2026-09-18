@@ -50,3 +50,18 @@ What I'd Improve
 Resolve the Default Rate blank issue above.
 Replace the equal-weighting placeholder with actual business-prioritized weights once available.
 Add a written recommendation per branch, not just a ranking, tying the specific Z-score components back to a concrete action (e.g., a branch scoring low on Default Rate specifically warrants risk review, independent of its overall rank).
+
+
+## Dashboard Pages
+
+### Composite Ranking
+![Composite Ranking chart showing branches ranked by performance score](Bank_analysis_page_3.png)
+
+### Composite Ranking
+![Composite Ranking chart showing branches ranked by performance score](Bank_analysis_page_2.png)
+
+### Composite Ranking
+![Composite Ranking chart showing branches ranked by performance score](Bank_analysis_page_1.png)
+
+### Component Breakdown
+![Component Breakdown](CarAnalysis.png)
