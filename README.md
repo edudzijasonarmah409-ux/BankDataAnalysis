@@ -54,14 +54,22 @@ Add a written recommendation per branch, not just a ranking, tying the specific 
 
 ## Dashboard Pages
 bank Analysis Dashboards
+
 page 1.
+
 <img width="422" height="274" alt="Bank_analysis_page_1" src="https://github.com/user-attachments/assets/ba15171b-b2b8-41bb-a995-83873648fff4" />
+
 page 2
+
 <img width="506" height="277" alt="Bank_analysis_page_2" src="https://github.com/user-attachments/assets/19cde761-f445-4e1d-aacb-f211cdf4b9da" />
+
 page 3
+
 <img width="322" height="226" alt="Bank_analysis_page_3" src="https://github.com/user-attachments/assets/1762c7c4-c786-4787-b528-f514e40617e8" />
 
+
 car analysis dashboard
+
 <img width="637" height="361" alt="CarAnalysis" src="https://github.com/user-attachments/assets/b5fbff2e-227b-4df4-a132-2bd24f1949f5" />
 
 
