@@ -68,9 +68,7 @@ page 3
 <img width="322" height="226" alt="Bank_analysis_page_3" src="https://github.com/user-attachments/assets/1762c7c4-c786-4787-b528-f514e40617e8" />
 
 
-car analysis dashboard
 
-<img width="637" height="361" alt="CarAnalysis" src="https://github.com/user-attachments/assets/b5fbff2e-227b-4df4-a132-2bd24f1949f5" />
 
 
 
